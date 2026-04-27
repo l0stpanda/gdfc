@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Node (covers frontend too if ever needed at root)
+node_modules/
